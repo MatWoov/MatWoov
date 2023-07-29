@@ -2,7 +2,7 @@
 
 - I'm currently learning full stack coding in 4geeks academy 📚
 
-<a href="www.linkedin.com/in/mathew-woo-35024a13a" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/mathew-woo-35024a13a/" target="_blank">LinkedIn</a>
 
 [Heading IDs](https://www.markdownguide.org/extended-syntax#heading-ids)
 
